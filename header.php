@@ -55,9 +55,4 @@
             ?>
         </div>
     </div>
-    <div class="row">
-        <div class="jumbotron col-md-12 text-center"><h1>Howdy. I'm a grid based layout focused on your talent.</h1>
-
-            <p>Greet your visitors & Showcase your work with style.</p></div>
-    </div>
 </header>
